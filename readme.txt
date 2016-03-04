@@ -3,4 +3,5 @@ Git is a free software.
 Git has a mutable index called stage.
 Git tracks change of files.
 Git commit modify not file.
+precommit modify.
 
